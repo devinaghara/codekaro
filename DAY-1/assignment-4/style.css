@@ -1,0 +1,52 @@
+.main{
+    width: 315px;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.box{
+    text-align: center;
+}
+
+.image{
+    width: 100px;
+    margin: 10px auto;
+}
+
+.input{
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: 1px solid lightgray;
+    font-size: 16px;
+}
+
+.bg{
+    text-align: center;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 215px;
+    border-radius: 20px;
+    border: none;
+    font-size: 18px;
+}
+
+.disc{
+    color: gray;
+    font-size: 13px;
+}
+
+.para{
+    color: black;
+
+}
+
+.last{
+    text-align: center;
+}

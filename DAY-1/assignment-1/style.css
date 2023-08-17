@@ -1,0 +1,21 @@
+.practice-box{
+    background-color: rgb(10, 245, 10);
+    color: black;
+    width: 420px;
+    padding: 70px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 15px;
+    justify-content: space-between;
+}
+
+.para1{
+    font-size: 45px;
+}
+
+.btn{
+    border: none;
+    border-radius: 20px;
+    width: 150px;
+    height: 35px;
+    font-size: 15px;
+}
